@@ -8,3 +8,7 @@ How to run:
 run main.py
 then go to the web browser.
 type: http://127.0.0.1:3233/
+
+Created By:
+
+Jay Soni, Dhruv Dholakia, Saquib Sugalatwala, Priyanka Jain, Krishna Mutta, Yash Tiwari
